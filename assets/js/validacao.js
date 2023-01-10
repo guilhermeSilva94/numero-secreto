@@ -1,7 +1,15 @@
 function verificaChute(chute) {
     const numero = +chute
 
-    if (chuteInvalido(numero)) {
+    if(chute == 'game over') {
+        document.body.innerHTML = `
+        <h1>GAME OVER</h1>
+        <button id="jogar-novamente" class="btn-jogar">Jogar Novamente</button>
+        `
+        const telaFim =  document.querySelector('body')
+        telaFim.style.background = '#f00'
+
+    } else if (chuteInvalido(numero)) {
         elementoChute.innerHTML += '<div>Valor inválido!</div>'
         
         return
