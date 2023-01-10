@@ -1,5 +1,5 @@
 const menorValor = 1
-const maiorValor = 100
+const maiorValor = 1000
 const numeroSecreto = gerarNumeroAleatorio()
 
 function gerarNumeroAleatorio() {
@@ -11,4 +11,3 @@ elementoMenorValor.innerText = menorValor
 
 const elementoMaiorValor = document.querySelector('#maior-valor')
 elementoMaiorValor.innerText = maiorValor
-
