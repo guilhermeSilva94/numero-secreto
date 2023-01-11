@@ -16,7 +16,7 @@ function verificaChute(chute) {
     }
 
     if (numeroMaiorOuMenor(chute)) {
-        elementoChute.innerHTML += `<div>Valor inválido: Fale um número secreto precisa estar entre ${menorValor} e ${maiorValor}</div>`
+        elementoChute.innerHTML += `<div>Valor inválido: Fale um número entre ${menorValor} e ${maiorValor}</div>`
 
         return
     }
