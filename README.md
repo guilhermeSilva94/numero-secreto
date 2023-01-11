@@ -18,21 +18,21 @@ Projeto usando HTML, CSS e JavaScript com foco no uso do reconhecimento de voz a
 
 ## Funcionamento
 
-## 1. Ao abrir o projeto o navegador pedira autorização para usar o microfone, habilitando o reconhecimento de voz.
+1. Ao abrir o projeto o navegador pedira autorização para usar o microfone, habilitando o reconhecimento de voz.
 
 <img src="./assets/img/Inicio.png" ></img>
 
-## 2. Diga um número entre 1 e 100. O jogo irá reconhecer o número dito e te dará uma dica indicando se o número secreto é maior ou menor.
+2. Diga um número entre 1 e 100. O jogo irá reconhecer o número dito e te dará uma dica indicando se o número secreto é maior ou menor.
 
 <img src="./assets/img/ChuteInicial_.png" ></img>
 
 <img src="./assets/img/Chute.png" ></img>
 
-## 3. Ao acertar o número, o jogo irá indicar o seu acerto e aparecerá um botão com a opção de se jogar de novo. Caso clique no botão, o jogo irá sortear outro número.
+3. Ao acertar o número, o jogo irá indicar o seu acerto e aparecerá um botão com a opção de se jogar de novo. Caso clique no botão, o jogo irá sortear outro número.
 
 <img src="./assets/img/Acerto.png" ></img>
 
-## 4. O jogo possui algumas validações, como o reconhecimento de palavras ou a identificação de um número fora do limite proposto pelo jogo. Caso identificado algum dos casos citados, aparecerá uma mensagem indicando.
+4. O jogo possui algumas validações, como o reconhecimento de palavras ou a identificação de um número fora do limite proposto pelo jogo. Caso identificado algum dos casos citados, aparecerá uma mensagem indicando.
 
 <img src="./assets/img/String.png" ></img>
 
