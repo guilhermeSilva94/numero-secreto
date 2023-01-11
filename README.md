@@ -24,7 +24,7 @@ Projeto usando HTML, CSS e JavaScript com foco no uso do reconhecimento de voz a
 
 ## 2. Diga um número entre 1 e 100. O jogo irá reconhecer o número dito e te dará uma dica indicando se o número secreto é maior ou menor.
 
-<img src="./assets/img/ChuteInicial.png" ></img>
+<img src="./assets/img/ChuteInicial_.png" ></img>
 
 <img src="./assets/img/Chute.png" ></img>
 
